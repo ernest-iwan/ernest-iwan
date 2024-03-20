@@ -59,6 +59,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Ernol123&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ernol123&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=Ernol123&&style=flat-square" align="center" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
