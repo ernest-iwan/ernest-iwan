@@ -49,9 +49,8 @@
 
 </td></tr></table>  
 
-<br/>  
+
 # 📊 GitHub Stats:
-<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Ernol123&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ernol123&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ernol123&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
