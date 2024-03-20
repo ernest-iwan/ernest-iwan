@@ -1,6 +1,8 @@
 # 💫 About Me:
 👯 I’m open to collaborate<br>🌱 I’m currently learning Django<br>💬 Ask me about something you want
-<br>
+<br/>
+<br/>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ernest-iwan-b12ab6187/)
 
 <br/>  
